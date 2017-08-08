@@ -21,10 +21,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = 	(('github', 'https://github.com/vfreysz'),
@@ -55,8 +55,8 @@ IPYNB_IGNORE_CSS = True
 #THEME = u'../pelican-themes_git/pelican-pure'
 #THEME = u'../pelican-themes_git/pure-single'
 THEME = u'../pelican-themes_git/pure'
-PROFILE_IMG_URL = u'https://drive.google.com/file/d/0B3IiPpXtD3VFeGtoV2tvSHdvS3M/view?usp=drivesdk'
-COVER_IMG_URL = u'https://drive.google.com/file/d/0B3IiPpXtD3VFSW9EdDhCTnBRQ0k/view?usp=drivesdk'
+COVER_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo/Side_image_ld.jpg'
+PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo/photo_nb_large.jpg'
 
 
 
