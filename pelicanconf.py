@@ -55,8 +55,8 @@ IPYNB_IGNORE_CSS = True
 #THEME = u'../pelican-themes_git/pelican-pure'
 #THEME = u'../pelican-themes_git/pure-single'
 THEME = u'../pelican-themes_git/pure'
-PROFILE_IMG_URL = u'photo/photo_nb_large.jpg'
-COVER_IMG_URL = u'photo/Side_image_ld.jpg'
+PROFILE_IMG_URL = u'https://drive.google.com/file/d/0B3IiPpXtD3VFeGtoV2tvSHdvS3M/view?usp=drivesdk'
+COVER_IMG_URL = u'https://drive.google.com/file/d/0B3IiPpXtD3VFSW9EdDhCTnBRQ0k/view?usp=drivesdk'
 
 
 
