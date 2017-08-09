@@ -39,13 +39,15 @@ DEFAULT_PAGINATION = 5
 
 #Plugin
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['ipynb.markup']
+
 #PLUGINS = ['pelican-ipynb.markup','i18n_subsites']
 
 #Ipython notebook
-#MARKUP = ('md', )
-MARKUP = ('md', 'ipynb')
-IPYNB_IGNORE_CSS = True
+MARKUP = ('md', )
+PLUGINS = ['ipynb.liquid']
+#MARKUP = ('md', 'ipynb')
+#PLUGINS = ['ipynb.markup']
+#IPYNB_IGNORE_CSS = True
 
 
 #JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

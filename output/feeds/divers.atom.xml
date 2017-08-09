@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ValsBlog - Divers</title><link href="https://vfreysz.github.io/" rel="alternate"></link><link href="https://vfreysz.github.io/feeds/divers.atom.xml" rel="self"></link><id>https://vfreysz.github.io/</id><updated>2016-12-05T19:30:00+01:00</updated><entry><title>Article Test</title><link href="https://vfreysz.github.io/article-test.html" rel="alternate"></link><published>2016-12-03T10:20:00+01:00</published><updated>2016-12-05T19:30:00+01:00</updated><author><name>FREYSZ Valerian</name></author><id>tag:vfreysz.github.io,2016-12-03:/article-test.html</id><summary type="html">&lt;p&gt;Un article qui ne sert a rien à part tester&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Section&lt;/h1&gt;
-&lt;p&gt;Oui oui c'est un test !!!&lt;/p&gt;
-&lt;h2&gt;Sous-Section&lt;/h2&gt;
-&lt;p&gt;Ouéééééé on est dans le sous section !!!&lt;/p&gt;
-&lt;p&gt;C'est un truc de malade !!! Blbablabla bla bla bla bla blablabla&lt;/p&gt;</content><category term="test"></category><category term="text"></category></entry></feed>
