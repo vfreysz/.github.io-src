@@ -55,8 +55,8 @@ IPYNB_IGNORE_CSS = True
 #THEME = u'../pelican-themes_git/pelican-pure'
 #THEME = u'../pelican-themes_git/pure-single'
 THEME = u'../pelican-themes_git/pure'
-COVER_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo/Side_image_ld.jpg'
-PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo/photo_nb_large.jpg'
+COVER_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/Side_image_ld.jpg'
+PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
 
 
 
