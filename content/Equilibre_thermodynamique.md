@@ -1,5 +1,5 @@
-Title: Evaluation de la composition de sortie d'un gazeifieur à l'équilibre thermodynamique. 
-Date: 2017-08-07 10:03
+Title: Évaluation de la composition de sortie d'un gazeifieur à l'équilibre thermodynamique.
+Date: 2017-08-11 10:00
 Category: Gazeification
 Tags: python, thermodynamique, gazeification
 Authors: FREYSZ Valerian
