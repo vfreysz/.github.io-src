@@ -29,7 +29,8 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = 	(('github', 'https://github.com/vfreysz'),
 		('linkedin', 'https://www.linkedin.com/in/valerian-freysz'),
-		('viadeo', 'http://fr.viadeo.com/fr/profile/freysz.valerian'),)
+		('viadeo', 'http://fr.viadeo.com/fr/profile/freysz.valerian'),
+		('id-card-o', 'https://github.com/vfreysz/vfreysz.github.io-src/blob/master/CV_PDF/CV_Valerian_FREYSZ_WEB.pdf'),)
 
 
 DEFAULT_PAGINATION = 5
