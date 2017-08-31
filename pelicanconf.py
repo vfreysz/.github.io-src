@@ -28,7 +28,8 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = 	(('github', 'https://github.com/vfreysz'),
-		('linkedin', 'https://www.linkedin.com/in/valerian-freysz'),)
+		('linkedin', 'https://www.linkedin.com/in/valerian-freysz'),
+		('viadeo', 'http://fr.viadeo.com/fr/profile/freysz.valerian'),)
 
 
 DEFAULT_PAGINATION = 5
@@ -58,8 +59,8 @@ PLUGINS = ['ipynb.liquid']
 #THEME = u'../pelican-themes_git/pure-single'
 THEME = u'../pelican-themes_git/pure'
 COVER_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/Side_image_ld.jpg'
-PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
-
+#PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
+PROFILE_IMAGE_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
 
 
 
