@@ -60,7 +60,7 @@ PLUGINS = ['ipynb.liquid']
 THEME = u'../pelican-themes_git/pure'
 COVER_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/Side_image_ld.jpg'
 #PROFILE_IMG_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
-PROFILE_IMAGE_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
+#PROFILE_IMAGE_URL = u'https://github.com/vfreysz/vfreysz.github.io-src/raw/master/photo_site/photo_nb_large.jpg'
 
 
 
